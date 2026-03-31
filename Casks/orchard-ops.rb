@@ -1,6 +1,6 @@
 cask "orchard-ops" do
-  version "0.3.0"
-  sha256 "a340bae1ed9a75220f0520e1a8df9b54d1bd3504c13b19bf180a14bc6b7d8900"
+  version "0.3.1"
+  sha256 ""
 
   url "https://github.com/shinout/orchard-ops-site/releases/download/v#{version}/OrchardOps.dmg"
   name "Orchard Ops"
