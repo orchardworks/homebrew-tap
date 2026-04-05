@@ -1,8 +1,8 @@
 class FinderPane < Formula
   desc "Finder-like file browser for macOS — pairs with cmux and Claude Code"
   homepage "https://github.com/orchardworks/finder-pane"
-  url "https://github.com/orchardworks/finder-pane/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "72d847e0175c0d1fc9d2e58de36a8901e086644b184ca81f61d3db582fd49a83"
+  url "https://github.com/orchardworks/finder-pane/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "1d738f07b6298490a4f34025ea4916bb31ed5e28529be0a354316b70628d5f19"
   license "MIT"
 
   depends_on :macos
