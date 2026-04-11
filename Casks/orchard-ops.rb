@@ -1,8 +1,8 @@
 cask "orchard-ops" do
-  version "0.3.3"
-  sha256 "faa10c22dec3746351528be82ab24437c83926adb3e4891200123e891ca08d96"
+  version "0.3.6"
+  sha256 "4b7425b6df6f52bcfa3aab147711dad758d5cf64e9e2bd3bf345520a61576671"
 
-  url "https://github.com/orchardworks/orchard-ops-site/releases/download/v#{version}/OrchardOps.dmg"
+  url "https://github.com/orchardworks/orchard-ops.com/releases/download/v#{version}/OrchardOps.dmg"
   name "Orchard Ops"
   desc "Schedule scripts and commands on your Mac with a visual timeline"
   homepage "https://orchard-ops.com/"
